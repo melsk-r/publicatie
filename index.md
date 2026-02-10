@@ -30,4 +30,4 @@
 
 ### Test
 
-[Test](https://vng-realisatie.github.io/publicatie/test)<br/>
+[Test](https://melsk-r.github.io/publicatie/test)<br/>
