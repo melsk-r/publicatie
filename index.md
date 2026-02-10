@@ -28,6 +28,6 @@
 [Versie 2.0.0](https://vng-realisatie.github.io/publicatie/cim/ori/2.0.0/)<br/>
 [Versie 1.2.0](https://vng-realisatie.github.io/publicatie/cim/ori/1.2.0/) -->
 
-## Test
+### Test
 
-[Test](https://vng-realisatie.github.io/publicatie/test/)<br/>
+[Test](https://vng-realisatie.github.io/publicatie/test)<br/>
